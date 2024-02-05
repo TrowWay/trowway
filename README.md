@@ -1,6 +1,6 @@
 ### Hi there 👋, Trow Way
 #### Analytics & Visualizations
-![Analytics & Visualizations](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Analytics & Visualizations](https://github.com/TrowWay/trowway/blob/main/GitHubHeader.jpg)
 
 Hi there I'm Trow, and I'm a Data Analyst. I really enjoy learning languages like Python and SQL to make analyzing data easier. I love to explore data to see what it has to say then create visualizations in Excel, PowerBI and Tableau to really bring it to life.
 
