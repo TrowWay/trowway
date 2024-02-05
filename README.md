@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Trow Way
+#### Analytics & Visualizations
+![Analytics & Visualizations](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**TrowWay/trowway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there I'm Trow, and I'm a Data Analyst. I really enjoy learning languages like Python and SQL to make analyzing data easier. I love to explore data to see what it has to say then create visualizations in Excel, PowerBI and Tableau to really bring it to life.
 
-Here are some ideas to get you started:
+Skills: Python / SQL / Excel / PowerBI / Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
