@@ -11,7 +11,6 @@ Python / SQL / Excel / Power BI / Tableau
 ## Examples of Work  
 [<img src="dog_with_hat.gif" alt="WeRateDogs Analytics Project" style="width:200px">](https://github.com/TrowWay/AnalyticsPortfolio/blob/main/WeRateDogs.ipynb)
 
-![WeRateDogs Analytics Project](/dog_with_hat.gif "WeRateDogs Analytics Project" | width="200")
 - 💬 Ask me about My pet rock collection. 
 - 📫 How to reach me: @gmail.com 
 - ⚡ Fun fact: I get gummy bears. 
