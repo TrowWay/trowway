@@ -1,7 +1,7 @@
 
 ### Analytics & Visualizations
 [LinkedIn]: https://www.linkedin.com/in/cyndimorris/
-[![LinkedIn](https://github.com/TrowWay/trowway/blob/main/DataProfile%20banner2.png)][LinkedIn]
+[![LinkedIn](https://github.com/TrowWay/trowway/blob/main/DataProfile%20banner3.png)][LinkedIn]
 Hi there I'm Trow, and I'm a Data Analyst. I really enjoy learning languages like Python and SQL to make analyzing data easier. I love to explore data to see what it has to say then create visualizations in Excel, PowerBI and Tableau to bring the stories to life.
 
 Skills: Python / SQL / Excel / PowerBI / Tableau
