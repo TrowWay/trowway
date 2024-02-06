@@ -1,5 +1,4 @@
 
-### Analytics & Visualizations
 [LinkedIn]: https://www.linkedin.com/in/cyndimorris/
 [![LinkedIn](https://github.com/TrowWay/trowway/blob/main/DataProfile%20banner3.png)][LinkedIn]  
 # Trow  
