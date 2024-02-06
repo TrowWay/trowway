@@ -5,7 +5,8 @@
 # Trow  
 I'm a Data Analyst. I really enjoy learning languages like Python and SQL to make analyzing data easier. I love to explore data to see what it has to say then create visualizations in Excel, PowerBI and Tableau to bring the stories to life.
 
-Skills and Experience: Python / SQL / Excel / Power BI / Tableau  
+## Skills and Experience  
+Python / SQL / Excel / Power BI / Tableau  
 
 
 - 🔭 I’m currently working on my Bachelors of Data Analytics 
