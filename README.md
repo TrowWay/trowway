@@ -6,9 +6,8 @@ Hi there I'm Trow, and I'm a Data Analyst. I really enjoy learning languages lik
 
 Skills and Experience: Python / SQL /   
 <img src="excel.png" alt="Excel" style="width:38px;"/> - Pivot Tables, VLOOKUP, Conditinal Formatting  
-<img src="BI.png" alt="PowerBI" style="width:30px;"/>   <img src="tableau.png" alt="tableau" style="width:40px;"/>
-
-<img src="tableau.png" alt="tableau" style="width:50px;"/>
+<img src="BI.png" alt="PowerBI" style="width:30px;"/>  - Power Query, Visualizations & Dashboards  
+<img src="tableau.png" alt="tableau" style="width:40px;"/> - Visualizatins & Dashboards  
 
 - 🔭 I’m currently working on my Bachelors of Data Analytics 
 - 🌱 I’m currently learning Advanced Excel, PowerBI and Tableau skills 
