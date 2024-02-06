@@ -6,6 +6,8 @@ Hi there I'm Trow, and I'm a Data Analyst. I really enjoy learning languages lik
 
 Skills and Experience: Python / SQL / Excel / PowerBI / Tableau ![Tableau](/tableau.png)
 
+<img src="tableau.png" alt="tableau" style="width:200px;"/>
+
 - 🔭 I’m currently working on my Bachelors of Data Analytics 
 - 🌱 I’m currently learning Advanced Excel, PowerBI and Tableau skills 
 - 💬 Ask me about My pet rock collection. 
