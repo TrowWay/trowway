@@ -9,7 +9,7 @@ I'm a Data Analyst. I really enjoy learning languages like Python and SQL to mak
 Python / SQL / Excel / Power BI / Tableau  
 
 ## Examples of Work  
-[<img alt="WeRateDogs Analytics Project" src="dog_with_hat.gif" width="200" />](https://github.com/TrowWay/AnalyticsPortfolio/blob/main/WeRateDogs.ipynb)
+[<img src="dog_with_hat.gif" alt="WeRateDogs Analytics Project" width="200" />](https://github.com/TrowWay/AnalyticsPortfolio/blob/main/WeRateDogs.ipynb)
 
 ![WeRateDogs Analytics Project](/dog_with_hat.gif "WeRateDogs Analytics Project" | width="200")
 - 💬 Ask me about My pet rock collection. 
