@@ -4,7 +4,7 @@
 [![LinkedIn](https://github.com/TrowWay/trowway/blob/main/DataProfile%20banner3.png)][LinkedIn]
 Hi there I'm Trow, and I'm a Data Analyst. I really enjoy learning languages like Python and SQL to make analyzing data easier. I love to explore data to see what it has to say then create visualizations in Excel, PowerBI and Tableau to bring the stories to life.
 
-Skills and Experience: Python / SQL / Excel / PowerBI / Tableau ![tableau](https://github.com/TrowWay/trowway/blob/main/DataProfile%20banner3.png)
+Skills and Experience: Python / SQL / Excel / PowerBI / Tableau 
 
 - 🔭 I’m currently working on my Bachelors of Data Analytics 
 - 🌱 I’m currently learning Advanced Excel, PowerBI and Tableau skills 
