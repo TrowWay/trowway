@@ -8,6 +8,8 @@ I'm a Data Analyst. I really enjoy learning languages like Python and SQL to mak
 ## Skills and Experience  
 Python / SQL / Excel / Power BI / Tableau  
 
+## Examples of Work  
+
 
 - 🔭 I’m currently working on my Bachelors of Data Analytics 
 - 🌱 I’m currently learning Advanced Excel, PowerBI and Tableau skills 
