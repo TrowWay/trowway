@@ -9,7 +9,7 @@ I'm a Data Analyst. I really enjoy learning languages like Python and SQL to mak
 Python / SQL / Excel / Power BI / Tableau  
 
 ## Examples of Work  
-
+<img scr="https://media1.tenor.com/m/VVphepJ2RGsAAAAd/la-creatura-dog-dog-hat.gif" width="256" />
 
 - 🔭 I’m currently working on my Bachelors of Data Analytics 
 - 🌱 I’m currently learning Advanced Excel, PowerBI and Tableau skills 
