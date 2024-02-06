@@ -18,6 +18,8 @@ Python / SQL / Excel / Power BI / Tableau
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/trowway)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/@linkedIn/)  
 
+(https://www.linkedin.com/in/@linkedIn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powerbi.svg' alt='powerbi' height='40'>](/trowway/Excel)  
+
 
 
 
