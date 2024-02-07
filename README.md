@@ -8,7 +8,7 @@ I'm a Data Analyst. I really enjoy learning languages like Python and SQL to mak
 Python / SQL / Excel / Power BI / Tableau  
 
 ## Examples of Work  
-[<img src="weratedogspic.png" alt="WeRateDogs Analytics Project" style="width:250px">](https://github.com/TrowWay/AnalyticsPortfolio/blob/main/WeRateDogs.ipynb) | [<img src="Motivate_Banner_New.png" alt="WeRateDogs Analytics Project" style="width:250px">](https://github.com/TrowWay/AnalyticsPortfolio/blob/main/WeRateDogs.ipynb)
+[<img src="weratedogspic.png" alt="WeRateDogs Analytics Project" style="width:250px">](https://github.com/TrowWay/AnalyticsPortfolio/blob/main/WeRateDogs.ipynb) | [<img src="RProgramming/Motivate_Banner_New.png" alt="WeRateDogs Analytics Project" style="width:250px">](https://github.com/TrowWay/AnalyticsPortfolio/blob/main/WeRateDogs.ipynb)
 
 
 
