@@ -14,7 +14,7 @@ Python / SQL / Excel / Power BI / Tableau
 
 - 💬 Ask me about My pet air plant collection. 
 - 📫 How to reach me: @gmail.com 
-- ⚡ Fun fact: I've worked in Law Enforcement, survived 6 PCS moves, and I'm a Licensed Veterinary Technician.
+- ⚡ Fun fact: I've worked in Law Enforcement, Survived 6 PCS moves, and I'm a Licensed Veterinary Technician.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/trowway)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/@linkedIn/)  
